@@ -1,6 +1,5 @@
 # react-native-note
 
-___________________#########################_______________________
 
 Installare node
 installare expo sudo npm i -g expo-cli
@@ -8,7 +7,6 @@ installare expo client
 
 
 
-________________________#####################______________________
 
 
 
@@ -19,14 +17,13 @@ material icon theme
 
 
 
-________________________#####################____________________
 
 Andare su preferenze cercare
 
 formatonsave e abilitare il tutto
 
 
-______________________######################______________________
+____________________________________________
 
 Prima applicazione 
 
@@ -42,7 +39,7 @@ in bare workflow ho puù possibilità per gestire nativamente la mia app.
 
 
 
-_______________________########################_________________________
+________________________________________________
 
 Per fare debug su firefox -> menu debug sospendi per exception rilevate.
 posso inserire dei valori nella watch windows
